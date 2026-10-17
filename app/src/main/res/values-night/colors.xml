@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_green">#37D6A7</color>
+    <color name="brand_green_dark">#00A878</color>
+    <color name="brand_green_light">#193D34</color>
+    <color name="page_bg">#101315</color>
+    <color name="card_bg">#1B2023</color>
+    <color name="divider">#30373B</color>
+    <color name="control_bg">#252B2F</color>
+    <color name="text_primary">#F1F4F5</color>
+    <color name="text_secondary">#AAB3B8</color>
+    <color name="text_hint">#778187</color>
+    <color name="ring_mastered">#37D6A7</color>
+    <color name="ring_fuzzy">#FFBF4D</color>
+    <color name="ring_unknown">#FF7478</color>
+    <color name="ring_empty">#30373B</color>
+    <color name="header_gradient_start">#146D55</color>
+    <color name="header_gradient_end">#104C3D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
