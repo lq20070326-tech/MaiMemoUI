@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_card.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_sync.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_sync.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_share.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_clock.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_search_bar.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_pill_green_light.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_pill_green_light.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_info.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_tab_selected.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_tab_selected.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_activity_study_settings.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/activity_study_settings.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_home.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_stats_forgetting.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_stats_forgetting.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_item_achievement.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/item_achievement.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_view_top_bar.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/view_top_bar.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_item_word.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/item_word.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_app_logo.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_star.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_legend_dot.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_legend_dot.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_tab_container.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_tab_container.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_view_setting_row.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/view_setting_row.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/color_nav_item_color.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_exit.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_mall.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_mall.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_bar_fill_h.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_bar_fill_h.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_nav_stats.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_nav_stats.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_feedback.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_activity_achievement.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/activity_achievement.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_activity_account_settings.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/activity_account_settings.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_item_wordbook.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/item_wordbook.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_volume.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_volume.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_lock.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_notebook.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_notebook.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_stats_study.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_stats_study.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_stats_memory.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_stats_memory.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_book.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_target.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_target.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_nav_mine.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_nav_mine.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_notification.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_activity_wordbook.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/activity_wordbook.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_settings.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_clean.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_clean.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_stats.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_palette.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_view_setting_switch_row.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/view_setting_switch_row.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_fragment_mine.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_search.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_nav_home.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_ic_medal.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/ic_medal.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/layout_view_grid_item.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/layout/view_grid_item.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_header_gradient.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "com.example.maimemo.app-debug-36:/drawable_bg_btn_primary.xml.flat",
+        "source": "com.example.maimemo.app-main-38:/drawable/bg_btn_primary.xml"
+    }
+]
