@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="brand_green">#00C48C</color>
+    <color name="brand_green_dark">#00A878</color>
+    <color name="brand_green_light">#E7F8F2</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="control_bg">#F1F3F5</color>
+    <color name="divider">#EFF1F4</color>
+    <color name="header_gradient_end">#00B37E</color>
+    <color name="header_gradient_start">#22D3A6</color>
+    <color name="page_bg">#F4F6F8</color>
+    <color name="ring_empty">#E9ECF0</color>
+    <color name="ring_fuzzy">#FFB020</color>
+    <color name="ring_mastered">#00C48C</color>
+    <color name="ring_unknown">#FF5A5F</color>
+    <color name="text_hint">#B4BAC2</color>
+    <color name="text_primary">#1A1D1F</color>
+    <color name="text_secondary">#8A9099</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">必须背</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_mine">我的</string>
+    <string name="tab_stats">统计</string>
+    <style name="Theme.MaiMemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/brand_green</item>
+        <item name="android:windowBackground">@color/page_bg</item>
+        <item name="android:statusBarColor">@color/card_bg</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+    <style name="Theme.MaiMemo.Transparent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimAmount">0.52</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>
